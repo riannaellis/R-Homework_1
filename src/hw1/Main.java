@@ -9,6 +9,11 @@ public class Main {
 		
 		Homework_1 member2 = new Homework_1("Joseph Hargus", "@JosephHargus");
 		System.out.println("Name: " + member2.getName() + ", UserId: " + member2.getUserID());
+		
+		Homework_1 member3 = new Homework_1("Neela Hanumanthiah", "@neelaanjali");
+		System.out.println("Name: " + member3.getName() + ", UserId: " + member3.getUserID());
+		
+		
 
 	}
 
