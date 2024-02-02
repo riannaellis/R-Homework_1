@@ -13,7 +13,9 @@ public class Main {
 		Homework_1 member3 = new Homework_1("Neela Hanumanthiah", "@neelaanjali");
 		System.out.println("Name: " + member3.getName() + ", UserId: " + member3.getUserID());
 		
-		
+		Homework_1 member4 = new Homework_1("Jessica Xie", "@jxie26");
+		System.out.println("Name: " + member4.getName() + ", UserId: " + member4.getUserID());
+	
 
 	}
 
